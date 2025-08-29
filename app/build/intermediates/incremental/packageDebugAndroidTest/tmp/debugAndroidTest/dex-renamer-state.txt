@@ -1,0 +1,7 @@
+#Thu Aug 28 21:12:56 COT 2025
+base.0=C\:\\Users\\aleja\\OneDrive\\Documentos\\MedicineReminder3\\MedicineReminder\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=C\:\\Users\\aleja\\OneDrive\\Documentos\\MedicineReminder3\\MedicineReminder\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/bg">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Historial"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_primary"/>
+
+    <TextView
+        android:id="@+id/tvAdherence"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Adherencia: 0%"
+        android:textSize="18sp"
+        android:textColor="@color/accent"
+        android:layout_marginTop="8dp"/>
+
+    <TextView
+        android:id="@+id/tvEmpty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Aún no hay historial"
+        android:layout_marginTop="40dp"
+        android:gravity="center"
+        android:textColor="@color/accent"
+        android:textSize="18sp"/>
+
+    <ListView
+        android:id="@+id/lvHistory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:dividerHeight="8dp"
+        android:layout_marginTop="8dp"/>
+</LinearLayout>

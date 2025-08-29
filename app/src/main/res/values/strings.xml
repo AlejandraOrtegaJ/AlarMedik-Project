@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Medicine Reminder</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="register_title">Registro</string>
+</resources>

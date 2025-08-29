@@ -1,0 +1,6 @@
+com.example.medicinereminder.test.app-core-1.5.0-0 C:\Users\aleja\.gradle\caches\8.11.1\transforms\2f6e87c8f463ba31e93fdc6bf20a82da\transformed\core-1.5.0\res
+com.example.medicinereminder.test.app-annotation-experimental-1.3.0-1 C:\Users\aleja\.gradle\caches\8.11.1\transforms\e60e03e029c8bea6237ea25820647485\transformed\annotation-experimental-1.3.0\res
+com.example.medicinereminder.test.app-androidTest-2 C:\Users\aleja\OneDrive\Documentos\MedicineReminder3\MedicineReminder\app\build\generated\res\resValues\androidTest\debug
+com.example.medicinereminder.test.app-mergeDebugAndroidTestResources-3 C:\Users\aleja\OneDrive\Documentos\MedicineReminder3\MedicineReminder\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.medicinereminder.test.app-mergeDebugAndroidTestResources-4 C:\Users\aleja\OneDrive\Documentos\MedicineReminder3\MedicineReminder\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.medicinereminder.test.app-debugAndroidTest-5 C:\Users\aleja\OneDrive\Documentos\MedicineReminder3\MedicineReminder\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

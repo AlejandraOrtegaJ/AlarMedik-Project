@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.medicinereminder.app-main-45:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/layout_item_history.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/layout/item_history.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/layout_activity_register.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/drawable_ic_medication_indicator.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/drawable/ic_medication_indicator.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/layout_activity_home.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/drawable_ic_notification.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/layout_item_dose.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/layout/item_dose.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.medicinereminder.app-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.medicinereminder.app-main-45:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.medicinereminder.app-main-45:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.medicinereminder.app-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/drawable_ic_home.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/layout_item_daily_medication.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/layout/item_daily_medication.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/layout_activity_history.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.medicinereminder.app-main-45:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/layout_component_calendar.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/layout/component_calendar.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/drawable_bottom_nav_colors.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/drawable/bottom_nav_colors.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/drawable_ic_remove.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/drawable/ic_remove.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/drawable_ic_add.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/drawable_ic_history.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.medicinereminder.app-main-45:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.medicinereminder.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/layout_activity_login.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/layout_activity_add_medication.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/layout/activity_add_medication.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/drawable_doctor_placeholder.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/drawable/doctor_placeholder.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.medicinereminder.app-main-45:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.medicinereminder.app-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/menu_bottom_menu.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/drawable_ic_settings.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.medicinereminder.app-debug-43:/drawable_day_selected_bg.xml.flat",
+        "source": "com.example.medicinereminder.app-main-45:/drawable/day_selected_bg.xml"
+    }
+]
